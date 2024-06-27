@@ -1,5 +1,5 @@
 version: "2"
-authtoken: 2hmoew8cO1WwFB0R0hppDfFSSfQ_3VZKK59JKhXFtEZoYKg59
+
 log: ./Logfile/ngrok.log
 log_level: debug
 
