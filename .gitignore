@@ -19,3 +19,4 @@ Logfile/
 init.txt
 secrets.h
 ngrok.yaml
+ngrok/
