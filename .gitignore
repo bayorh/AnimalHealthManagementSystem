@@ -14,7 +14,7 @@ out/
 
 # others
 
-ngrok/
+
 Logfile/
 init.txt
 secrets.h
