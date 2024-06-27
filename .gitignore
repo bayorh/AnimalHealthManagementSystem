@@ -13,7 +13,9 @@ build/
 out/
 
 # others
+
 ngrok/
 Logfile/
 init.txt
 secrets.h
+ngrok.yaml
