@@ -1,3 +1,20 @@
+# Arduino specific files
+*.ino.*
+*.cpp.*
+*.h.*
+.vscode/
+.idea/
+.DS_Store
+.pio/
+.build/
+.ccls-cache/
+.clangd/
+build/
+out/
+
+# others
  .env
 ngrok.yml
 Logfile/
+init.txt
+secrets.h
