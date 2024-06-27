@@ -13,9 +13,7 @@ build/
 out/
 
 # others
- .env
- ngrok/
-ngrok.yml
+ngrok/
 Logfile/
 init.txt
 secrets.h

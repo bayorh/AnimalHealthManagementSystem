@@ -9,9 +9,6 @@ WiFiServer server(80);
 Application app;
 DynamicJsonDocument json(1024);
 
-//
-// wifi credential
-
 // Wifi implementation
 void ConnectWifi()
 {
