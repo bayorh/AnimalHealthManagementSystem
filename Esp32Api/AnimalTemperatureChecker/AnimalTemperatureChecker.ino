@@ -3,6 +3,7 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
 #include <ArduinoJson.h>
+#include "Secrets.h"
 
 WiFiServer server(80);
 Application app;
@@ -10,8 +11,6 @@ DynamicJsonDocument json(1024);
 
 //
 // wifi credential
-const char *ssid = "";
-const char *password = "";
 
 // Wifi implementation
 void ConnectWifi()
